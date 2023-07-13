@@ -1,5 +1,7 @@
 # Olá! Sou o Vítor. 👋🏼😉 
 
+##
+
 Sou aluno Sistemas de Informação pela [__Univesidade Estácio de Sá__](https://estacio.br)  buscando aprimorar minhas habilidades como programador. Atualmente sou Desenvolvedor Full Stack, estudando na [__Digital College__](https://digitalcollege.com.br/) e estou buscando aprender cada dias mais.
 
 Em busca de oportunidades, estou apto à assumir posições de Estagiário e Dev Jr. 👨🏻‍💻
