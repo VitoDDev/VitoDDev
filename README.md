@@ -56,6 +56,5 @@ Em busca de oportunidades, estou apto à assumir posições de Estagiário e Dev
 
  <a href="https://instagram.com/ovitorcruz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/vitor-cruz-40840122b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://github.com/VitoDDev" target="_blank"><img src="https://img.shields.io/badge/-StackOverFlow-%23E4405F?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
  <a href = "mailto:viitorhugoo76@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
